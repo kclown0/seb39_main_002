@@ -30,7 +30,7 @@ seb39_main_002 프로젝트입니다.
 
 ![사용자 요구사항 정의서 PNG](https://github.com/kclown0/seb39_main_002/assets/104144701/a6dac072-b0bb-45f4-af68-688a94583d0a)
 
-ERD / API
+### ERD / API
 ![DB스키마 PNG](https://github.com/kclown0/seb39_main_002/assets/104144701/ef0967b0-6805-4207-b8ec-d4f493ce41ac)
 
 ![api PNG](https://github.com/kclown0/seb39_main_002/assets/104144701/58eadd8d-f586-4e35-a567-7693d36cc46f)
