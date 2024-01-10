@@ -34,6 +34,3 @@ ERD / API
 ![DB스키마 PNG](https://github.com/kclown0/seb39_main_002/assets/104144701/ef0967b0-6805-4207-b8ec-d4f493ce41ac)
 
 ![api PNG](https://github.com/kclown0/seb39_main_002/assets/104144701/58eadd8d-f586-4e35-a567-7693d36cc46f)
-
-## Project 배포
-https://002main.netlify.app/
